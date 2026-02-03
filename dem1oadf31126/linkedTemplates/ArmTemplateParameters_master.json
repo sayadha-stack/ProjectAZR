@@ -11,7 +11,25 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"SourceLinked_accountKey": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://storageaccnt22.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "demobrowseserver.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "db2226"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "admin22"
+		},
+		"SourceLinked_properties_typeProperties_url": {
 			"value": "https://storageaccnt22.dfs.core.windows.net/"
 		},
 		"containerUri": {
